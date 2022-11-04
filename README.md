@@ -6,7 +6,7 @@ El proyecto individual 02 se basa en el desarrollo de un modelo de machine learn
 
 ## Notebook
 
-El notebook posee toda la información referente al tratamiento de los datos, su procesamiento y la visualización de las variables respectivas. Luego se presenta una prueba de diferentes modelos para discriminar cuáil sería utilizado para realizar las predicciones. Por último, se encuentra las predicciones realizadas con el modelo que arrojó mejores resultados. Los resultados fueron guardados en un archivo csv.
+El notebook "machine_learning_pi_02.ipynb" posee toda la información referente al tratamiento de los datos, su procesamiento y la visualización de las variables respectivas. Luego se presenta una prueba de diferentes modelos para discriminar cuáil sería utilizado para realizar las predicciones. Por último, se encuentra las predicciones realizadas con el modelo que arrojó mejores resultados. Los resultados fueron guardados en un archivo csv.
 
 ### EDA
 
